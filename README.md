@@ -1,5 +1,5 @@
 # devops-aula04.
-Psicose
-Invocação do Mal 2
-Meu amigo totoro
-50 tons de cinza
+Psicose<br>
+Invocação do Mal 2<br>
+Meu amigo totoro<br>
+50 tons de cinza<br>
